@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.ant-table-thead th {
+  background-color: rgba(7, 40, 117, 0.079) !important;
+}
+
+.ant-table-wrapper .ant-table-tbody tr:hover {
+  background-color: inherit !important;
+}
+
+.completed-row:hover {
+  background-color: #6ad51f !important;
+}
+
+body {
+  background-color: #dcdcdc32; 
+}
+
+
